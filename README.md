@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @untamedbeast1
 - 👀 I’m interested in Cloud and security engineering
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning security and cloud technologies
 - 💞️ I’m looking to collaborate on cloud security projects
 - 📫 How to reach me ...
 
