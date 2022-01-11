@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Ali
 - 👀 I’m interested in Cloud and security engineering
-- 🌱 I’m currently learning security 
+- 🌱 I’m currently learning cyber security 
 - 💞️ I’m looking to collaborate on security engineering projects
 - 📫 How to reach me ali.joshua.official@gmail.com
 
