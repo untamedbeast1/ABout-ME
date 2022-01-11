@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @untamedbeast1
+- 👋 Hi, I’m Joshua Ali
 - 👀 I’m interested in Cloud and security engineering
-- 🌱 I’m currently learning security and cloud technologies
-- 💞️ I’m looking to collaborate on cloud security projects
-- 📫 How to reach me ...
+- 🌱 I’m currently learning security 
+- 💞️ I’m looking to collaborate on security engineering projects
+- 📫 How to reach me ali.joshua.official@gmail.com
 
 <!---
 untamedbeast1/untamedbeast1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
